@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Reader",
+  "description": "An AI-powered document reader that converts PDFs into natural-sounding speech using Gemini 2.5.",
+  "requestFramePermissions": []
+}
